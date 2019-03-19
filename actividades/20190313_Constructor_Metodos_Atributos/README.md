@@ -7,7 +7,7 @@ Actividades
 
 - Incluir un constructor que permita indicar *nombre*, *salario* y *ranking*: `Employee(String n, double s, int r)`
 
-. Incluir método que permita modificar el *ranking*. E.g., `SetRank(int r)`.
+- Incluir método que permita modificar el *ranking*. E.g., `SetRank(int r)`.
 
 - Incluir método *toString()* que permita imprimir la información del empleado siguiendo el formato entregado en el código original:
 
